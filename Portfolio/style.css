@@ -1,0 +1,9 @@
+.bg-image{
+    background-image: url(header-bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.portfolio-section img{
+    height: 150px;
+}
